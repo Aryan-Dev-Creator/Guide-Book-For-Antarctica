@@ -1,0 +1,32 @@
+body
+{
+    background-color: #1877f2;
+}
+
+h1
+{
+    text-align:center;
+    color: white;
+}
+
+h2
+{
+    color: white;
+}
+h3
+{
+    color: white;
+}
+
+p
+{
+    color: white;
+    font-size: 17px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+embed
+{
+    color: #1877f2;
+}
